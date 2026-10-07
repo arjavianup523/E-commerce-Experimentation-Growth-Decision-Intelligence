@@ -1,0 +1,18 @@
+@"
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+.env
+.env.*
+
+.streamlit/secrets.toml
+
+.DS_Store
+
+*.log
+
+.ipynb_checkpoints/
+"@ | Set-Content .gitignore
+docker_packages/

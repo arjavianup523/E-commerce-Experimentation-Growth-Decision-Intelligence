@@ -1,0 +1,3 @@
+variant,conversion_lift,adjusted_p_value,statistically_significant,revenue_per_user_lift,estimated_revenue_impact,guardrails_pass,decision,decision_reason
+Variant_A,9.46,0.00913,True,10.01,34212.88,True,SHIP,Statistically significant positive conversion impact and all guardrails passed.
+Variant_B,20.42,0.0,True,23.56,81214.17,True,SHIP,Statistically significant positive conversion impact and all guardrails passed.

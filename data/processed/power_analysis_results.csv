@@ -1,0 +1,5 @@
+scenario,baseline_conversion_rate,minimum_detectable_effect,alpha,target_power,required_users_per_group,required_users_total
+Small improvement,8.65,0.5,0.05,0.8,50922,101844
+Moderate improvement,8.65,1.0,0.05,0.8,13051,26102
+Large improvement,8.65,2.0,0.05,0.8,3422,6844
+Very large improvement,8.65,3.0,0.05,0.8,1590,3180

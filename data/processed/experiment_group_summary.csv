@@ -1,0 +1,4 @@
+experiment_group,users,conversions,conversion_rate,total_revenue,average_order_value,average_sessions,revenue_per_user
+Control,16955,1467,8.65,352149.0,20.77,2.87,20.77
+Variant_A,16450,1558,9.47,375873.22,22.85,2.87,22.85
+Variant_B,16595,1729,10.42,425886.1,25.66,2.89,25.66

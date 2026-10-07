@@ -1,0 +1,34 @@
+segment,experiment_group,users,conversions,total_revenue,average_order_value,average_sessions,conversion_rate,revenue_per_user,segment_type
+Desktop,Control,5397,505,121211.74,22.46,2.87,9.36,22.46,device_type
+Desktop,Variant_A,5174,564,133760.98,25.85,2.88,10.9,25.85,device_type
+Desktop,Variant_B,5380,616,150987.64,28.06,2.89,11.45,28.06,device_type
+Mobile,Control,10166,844,202761.03,19.95,2.88,8.3,19.95,device_type
+Mobile,Variant_A,9885,860,207363.82,20.98,2.87,8.7,20.98,device_type
+Mobile,Variant_B,9946,1001,246746.66,24.81,2.88,10.06,24.81,device_type
+Tablet,Control,1392,118,28176.23,20.24,2.83,8.48,20.24,device_type
+Tablet,Variant_A,1391,134,34748.42,24.98,2.83,9.63,24.98,device_type
+Tablet,Variant_B,1269,112,28151.8,22.18,2.94,8.83,22.18,device_type
+Email,Control,2474,247,59417.95,24.02,2.85,9.98,24.02,traffic_source
+Email,Variant_A,2523,231,56346.73,22.33,2.86,9.16,22.33,traffic_source
+Email,Variant_B,2501,273,66976.73,26.78,2.92,10.92,26.78,traffic_source
+Organic,Control,5215,451,107748.64,20.66,2.85,8.65,20.66,traffic_source
+Organic,Variant_A,4941,496,122920.5,24.88,2.9,10.04,24.88,traffic_source
+Organic,Variant_B,4917,528,128587.87,26.15,2.89,10.74,26.15,traffic_source
+Paid Search,Control,4199,314,73928.94,17.61,2.89,7.48,17.61,traffic_source
+Paid Search,Variant_A,4062,369,85895.67,21.15,2.85,9.08,21.15,traffic_source
+Paid Search,Variant_B,4228,427,107397.78,25.4,2.87,10.1,25.4,traffic_source
+Referral,Control,1706,162,42706.93,25.03,2.83,9.5,25.03,traffic_source
+Referral,Variant_A,1677,149,34963.78,20.85,2.88,8.88,20.85,traffic_source
+Referral,Variant_B,1632,176,42169.35,25.84,2.86,10.78,25.84,traffic_source
+Social,Control,3361,293,68346.54,20.34,2.91,8.72,20.34,traffic_source
+Social,Variant_A,3247,313,75746.54,23.33,2.88,9.64,23.33,traffic_source
+Social,Variant_B,3317,325,80754.37,24.35,2.9,9.8,24.35,traffic_source
+Loyal,Control,2551,357,87356.24,34.24,4.02,13.99,34.24,customer_segment
+Loyal,Variant_A,2446,389,90792.21,37.12,4.03,15.9,37.12,customer_segment
+Loyal,Variant_B,2554,428,105879.23,41.46,4.01,16.76,41.46,customer_segment
+New,Control,8442,501,119182.46,14.12,2.4,5.93,14.12,customer_segment
+New,Variant_A,8291,586,144394.61,17.42,2.38,7.07,17.42,customer_segment
+New,Variant_B,8345,654,159162.12,19.07,2.4,7.84,19.07,customer_segment
+Returning,Control,5962,609,145610.3,24.42,3.05,10.21,24.42,customer_segment
+Returning,Variant_A,5713,583,140686.4,24.63,3.1,10.2,24.63,customer_segment
+Returning,Variant_B,5696,647,160844.75,28.24,3.11,11.36,28.24,customer_segment

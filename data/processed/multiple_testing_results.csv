@@ -1,0 +1,3 @@
+variant,control_users,variant_users,control_conversion_rate,variant_conversion_rate,absolute_conversion_difference,relative_conversion_lift,z_score,p_value,ci_lower,ci_upper,statistically_significant,holm_adjusted_p_value,significant_after_holm,decision
+Variant_A,16955,16450,8.6523,9.4711,0.8188,9.46,2.6071,0.00913,0.2029,1.4347,True,0.00913,True,Statistically Significant
+Variant_B,16955,16595,8.6523,10.4188,1.7665,20.42,5.5104,0.0,1.1379,2.3951,True,0.0,True,Statistically Significant
